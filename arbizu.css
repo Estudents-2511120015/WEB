@@ -1,0 +1,13 @@
+
+        body{
+            background-color: blueviolet;
+        }
+        h1{
+            color: aqua;
+            margin-right: 40px;
+        }
+        p{
+            color: rgb(71, 9, 45);
+            margin-left: 40px;
+            font-size: large;
+        }
